@@ -110,3 +110,7 @@ RuneWarden is a ritualized, LLM-powered log parser and report generator that tra
 ---
 
 **🗡️ Status:** _This roadmap is actively being forged in code. Contributions, feedback, and followers of the flame are welcome._
+
+### 🛠️ Development
+This project is in early-stage active development. For roadmap, see [ROADMAP.md](./ROADMAP.md). Contributions and ideas are welcome.
+
