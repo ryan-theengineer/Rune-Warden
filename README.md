@@ -11,7 +11,7 @@ RuneWarden is a ritualized, LLM-powered log parser and report generator that tra
 > *Goal: Prove the concept. Start the fire.*
 
 - [x] Create public GitHub repo  
-- [x] Choose license (MIT recommended)  
+- [x] Choose license 
 - [x] Establish initial README and core vision  
 - [x] Build first working Nmap parser (`parser_nmap.py`)  
 - [ ] Create standard log input format (JSON/dict schema)  
